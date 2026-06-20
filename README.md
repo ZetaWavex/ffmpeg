@@ -1,3 +1,3 @@
 # ffmpeg
 
-[Convert to ZTG](/Toots/ztgfactory.exe)
+[Convert to ZTG](.\Toots\ztgfactory.exe)
