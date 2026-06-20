@@ -1,3 +1,3 @@
 # ffmpeg
 
-[To ZTG's](ztgfactory.exe)
+[Converted to ZTG](ztgfactory.exe)
